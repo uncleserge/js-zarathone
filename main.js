@@ -5,7 +5,7 @@ class Player {
         this.img = img;
         this.weapon = weapon;
         this.attack = function () {
-            console.log(this.name + ' ' + 'Fight...');
+            console.log(this.name + ' Fight...');
         };
     }
 }
